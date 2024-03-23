@@ -18,6 +18,12 @@ make
 This project is mainly to run some test cases with makefile.\
 To run the test cases, run the following command:
 ```bash
-make test
+make test 1
+```
+```bash
+make test 2
+```
+```bash
+make test 3
 ```
 
